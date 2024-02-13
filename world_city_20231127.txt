@@ -1,0 +1,30 @@
+1	London	United Kingdom	51.507222	-0.1275
+2	New York	United States	40.712778	-74.006111
+3	Hong Kong	Hong Kong	22.31	114.18
+4	Singapore	Singapore	1.34	103.86
+5	Shanghai	China	31.23	121.48
+6	Beijing	China	39.91	116.4
+7	Dubai	United Arab Emirates	25.263056	55.297222
+8	Paris	France	48.86	2.34
+9	Tokyo	Japan	35.69	139.76
+10	Sydney	Australia	-33.867778	151.21
+11	Los Angeles	USA	34.04	-118.24
+12	Toronto	Canada	43.741667	-79.373333
+13	Mumbai	India	19.076111	72.8775
+14	Amsterdam	Netherland	52.38	4.9
+15	Milan	Italy	45.47	9.18
+16	Frankfurt	Germany	50.110556	8.682222
+17	Mexico City	Mexico	19.433333	-99.133333
+18	Sao Paulo	Brazil	-23.55	-46.633333
+19	Chicago	United States	41.87	-87.68
+20	Kuala Lumpur	Malaysia	3.147778	101.695278
+21	Madrid	Spain	40.42	-3.7
+22	Moscow	Russia	55.75	37.62
+23	Jakarta	Indonesia	-6.175	106.8275
+24	Brussels	Belgian	50.85	4.36
+25	Warsaw	Poland	52.23	21.011111
+26	Seoul	South Korea	37.54	126.98
+27	Johannesburg	South Africa	-26.204444	28.045556
+28	Zurich	Switzerland	47.374444	8.541111
+29	Melbourne	Australia	-37.814167	144.963056
+30	Istanbul	Turkey	41.013611	28.955
